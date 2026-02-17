@@ -1,5 +1,5 @@
 # Python-examples
-Some examples to show proficiency in Python
+Some examples to show proficiency in Python. The code used in these screenshots as well as the data set used can be found in the files section.
 
 
 
