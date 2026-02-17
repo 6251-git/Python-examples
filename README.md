@@ -65,7 +65,14 @@ this code sorts the table by score in descending order.
 <img width="454" height="349" alt="image" src="https://github.com/user-attachments/assets/8e949b1a-3b8e-4b2a-873c-cd726388fcde" />
 
 
-I can use df.info() to easily get information about the data. In this case i can see that it has total of 5 columns
+I can use df.info() to easily get information about the data. In this case i can see that it has total of 5 columns.
+
+
+
+<img width="412" height="457" alt="image" src="https://github.com/user-attachments/assets/d159fe51-929c-4efd-ae80-6fb1319d33c1" />
+
+
+I can use df.describe() to get statistics for the numerical columns in the data.
 
 
 Explanation
